@@ -1,0 +1,2 @@
+# AviUtl-CurvaturePlugin
+AviUtlで曲率を指定できるようにするアニメーション効果用スクリプト
